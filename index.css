@@ -109,6 +109,15 @@ main {
     font-weight: bold;
 }
 
+.designation {
+    font-size: 0.9em;
+    font-weight: 800;
+}
+
+.organisation {
+    font-size: 0.9em;
+}
+
 .profile {
     width: 100%;
     /* padding: 0 20px; */
@@ -242,6 +251,7 @@ footer {
     .profile p {
         margin-bottom: 10px;
         text-align: justify;
+        font-size: 1em;
     }
 
     footer {
