@@ -15,6 +15,7 @@ nav {
     align-items: center;
     padding: 10px 0;  
     background-color: blue;
+    border-bottom: 3px solid white;
 }
 
 .navContent {
@@ -103,13 +104,18 @@ main {
     text-align: center;
 }
 
+.red {
+    color: red;
+    font-weight: bold;
+}
+
 .profile {
     width: 100%;
     /* padding: 0 20px; */
 }
 
 .profile p {
-    font-size: 1em;
+    font-size: 0.8em;
     margin-bottom: 15px;
     text-align: justify;
 }
@@ -194,7 +200,7 @@ footer {
         padding: 20px;
         justify-content: space-around;
         align-items: top;
-        background-color: rgb(240, 238, 238);
+        background-image: linear-gradient(to right, rgb(160, 157, 157), white);
     }
 
     .picInfo {
