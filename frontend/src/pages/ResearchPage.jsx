@@ -1,12 +1,24 @@
 import React from "react";
+import heroImage from "/researcher_header.jpg";
+import { Link } from "react-router-dom";
 import MainLayout from "../layout/MainLayout";
-import { Button, Textarea, TextInput } from "flowbite-react";
+import { Button } from "flowbite-react";
+import { GrDocumentPdf } from "react-icons/gr";
+import Divider from "../components/Divider";
 
-export default function ResearchPage() {
+export default function About() {
   return (
     <MainLayout>
-      <div className="max-w-6xl mx-auto p-2 md:py-8 flex flex-col md:flex-row mb-5 md:mb-10 items-center">
-        Researches
+      <div className="w-full min-h-screen">
+        <div
+          className="w-full h-[400px] bg-cover bg-no-repeat flex flex-col items-center justify-center px-4 md:px-20 text-center"
+          style={{ backgroundImage: `url(${heroImage})` }}
+        >
+          <p className="text-4xl font-extrabold dark:text-gray-900">
+            RESEARCH INTERESTS
+          </p>
+        </div>
+        <div className="flex flex-col gap-6 max-w-6xl md:mx-auto bg-white md:mt-[-50px] md:rounded-t-2xl p-4 md:p-10"></div>
       </div>
     </MainLayout>
   );
