@@ -153,14 +153,13 @@ export default function About() {
                   <span className="font-bold">Formulate Resources:</span> My
                   students need and deserve the best resources available to
                   learn efficiently, to practice what is taught, and to apply
-                  the information they’ve learned. I’ve developed course
-                  websites for nearly all of my in-person university courses,
-                  where students can access assignments, lecture notes, videos
-                  of recorded lectures and more. I’ve also developed online
-                  courses on a variety of topics, accessible to students around
-                  the world. I developed a successful YouTube channel with
-                  videos explaining and demonstrating a variety of topics in my
-                  research fields.
+                  the information they have learned. I have developed course
+                  materials for nearly all of my university courses, in which
+                  students can access assignments, notes, test questions and
+                  more. I am also in the process of developing online courses on
+                  a variety of topics, accessible to students around the world
+                  through a YouTube channel with videos explaining and
+                  demonstrating a variety of topics in my research fields.
                 </li>
                 <li>
                   <span className="font-bold">Mentorship Programmes:</span> I
