@@ -35,41 +35,37 @@ export default function About() {
                 alt=""
                 className="w-full md:max-w-80 block md:float-left mb-3 md:m-3 rounded-2xl"
               />
-              <p className="">
-                <span className="font-bold uppercase">Oluwatoyin Afolabi</span>{" "}
-                is a registered and accomplished Clinical Pharmacist, currently
-                serves as the Deputy Director, Pharmaceutical services at the
-                Afe BABALOLA Multisystem Hospital, Ado Ekiti.
+              <p className="mb-3">
+                I am a registered and accomplished Clinical Pharmacist,
+                currently serving as the Deputy Director, Pharmaceutical
+                services and Head of Department, Department of Pharmaceutical
+                Services, Afe Babalola University Multisystem Hospital
+                (ABUAD-MSH), Ado Ekiti.
               </p>
-              <p className="">
-                <span className="font-bold uppercase">Oluwatoyin Afolabi</span>{" "}
-                is a registered and accomplished Clinical Pharmacist, currently
-                serves as the Deputy Director, Pharmaceutical services at the
-                Afe BABALOLA Multisystem Hospital, Ado Ekiti.
+              <p className="mb-3">
+                Being an enigmatic, pragmatic and proactive professional, after
+                my employment into ABUAD, literally created a robust
+                pharmaceutical care operational system from scratch to an
+                enviable status. From the humble beginning as the pioneer
+                University Chief Pharmacist and later the pioneer Chief
+                pharmacist for the Multisystem hospital, I rose to the current
+                rank.
               </p>
-              <p className="">
-                <span className="font-bold uppercase">Oluwatoyin Afolabi</span>{" "}
-                is a registered and accomplished Clinical Pharmacist, currently
-                serves as the Deputy Director, Pharmaceutical services at the
-                Afe BABALOLA Multisystem Hospital, Ado Ekiti.
+              <p className="mb-3">
+                With my robust background experience in pharmaceucal sales and
+                marketing, I was able to coordinate an effecve paperless online
+                sales platform for the pharmacy operational system in AMSH, a
+                unique feat in modern day commerce achieved with active
+                collaboraon of the ICT department.
               </p>
-              <p className="">
-                <span className="font-bold uppercase">Oluwatoyin Afolabi</span>{" "}
-                is a registered and accomplished Clinical Pharmacist, currently
-                serves as the Deputy Director, Pharmaceutical services at the
-                Afe BABALOLA Multisystem Hospital, Ado Ekiti.
-              </p>
-              <p className="">
-                <span className="font-bold uppercase">Oluwatoyin Afolabi</span>{" "}
-                is a registered and accomplished Clinical Pharmacist, currently
-                serves as the Deputy Director, Pharmaceutical services at the
-                Afe BABALOLA Multisystem Hospital, Ado Ekiti.
-              </p>
-              <p className="">
-                <span className="font-bold uppercase">Oluwatoyin Afolabi</span>{" "}
-                is a registered and accomplished Clinical Pharmacist, currently
-                serves as the Deputy Director, Pharmaceutical services at the
-                Afe BABALOLA Multisystem Hospital, Ado Ekiti.
+              <p className="mb-3">
+                Because of my versatility, and experience as a Chartered Member,
+                Institute of Purchasing and Supply Management, I was given
+                addional responsibility of coordinang the Central store of the
+                whole University. A unit that has seen to the seamless
+                procurement and distribution of chemicals, instruments, and
+                equipment to the different laboratories and colleges within the
+                University.
               </p>
             </div>
           </div>
@@ -228,6 +224,12 @@ export default function About() {
                 feverish conditions, and{" "}
                 <b>Natucadin Herbal Supplement Capsules 250mg</b> with the
                 potential to stall and reverse aging.
+              </p>
+              <p className="mb-3">
+                My strive for excellence and proactiveness has led to the
+                establishment of robust production lines for ABUAD brands of
+                Methylated spirit, anseptics/disinfectant AFLON, Liquid soap,
+                household bleach ABUADIK etc
               </p>
             </div>
           </div>
