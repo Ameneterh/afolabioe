@@ -18,7 +18,44 @@ export default function About() {
             RESEARCH INTERESTS
           </p>
         </div>
-        <div className="flex flex-col gap-6 max-w-6xl md:mx-auto bg-white md:mt-[-50px] md:rounded-t-2xl p-4 md:p-10"></div>
+        <div className="flex flex-col gap-6 max-w-6xl md:mx-auto bg-white md:mt-[-50px] md:rounded-t-2xl p-4 md:p-10">
+          <div className="w-full flex flex-col gap-4 dark:text-slate-700">
+            <p>
+              Omotuyi, I.O., Oyinloye, B.E., Fatumo, S., Femi-Oyewo, M.N., and
+              Bogoro, S.E., Afolabi O.E. (2021),
+              <i>
+                "Omicron spike glycoprotein receptor binding domain exhibits
+                super-binding ability with ACE2 but not convalescent monoclonal
+                antibody”
+              </i>{" "}
+              <a
+                href="https://www.sciencedirect.com/science/article/pii/S001048252200018X"
+                target="_blank"
+              >
+                <b>
+                  <i>Computers in Biology and Medicine</i>
+                </b>
+              </a>
+            </p>
+            <p>
+              Omotuyi, I.O., Oyinloye, B.E., Fatumo, S., Femi-Oyewo, M.N., and
+              Bogoro, S.E., Afolabi O.E. (2021),
+              <i>
+                "Omicron spike glycoprotein receptor binding domain exhibits
+                super-binding ability with ACE2 but not convalescent monoclonal
+                antibody”
+              </i>{" "}
+              <a
+                href="https://www.sciencedirect.com/science/article/pii/S001048252200018X"
+                target="_blank"
+              >
+                <b>
+                  <i>Computers in Biology and Medicine</i>
+                </b>
+              </a>
+            </p>
+          </div>
+        </div>
       </div>
     </MainLayout>
   );

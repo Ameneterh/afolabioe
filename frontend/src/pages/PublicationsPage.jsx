@@ -22,7 +22,7 @@ export default function About() {
             <Button>Google Scholar Profile</Button>
           </div>
 
-          <div className="w-full flex flex-col gap-4">
+          <div className="w-full flex flex-col gap-4 dark:text-slate-700">
             <p>
               Omotuyi, I.O., Oyinloye, B.E., Fatumo, S., Femi-Oyewo, M.N., and
               Bogoro, S.E., Afolabi O.E. (2021),

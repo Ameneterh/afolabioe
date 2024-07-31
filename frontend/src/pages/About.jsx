@@ -29,12 +29,49 @@ export default function About() {
             <h1 className="text-xl md:text-4xl font-extrabold">
               Hospital Practice
             </h1>
-            <p className="">
-              <span className="font-bold uppercase">Oluwatoyin Afolabi</span> is
-              a registered and accomplished Clinical Pharmacist, currently
-              serves as the Deputy Director, Pharmaceutical services at the Afe
-              BABALOLA Multisystem Hospital, Ado Ekiti.
-            </p>
+            <div>
+              <img
+                src="/afolabi_office.jpg"
+                alt=""
+                className="w-full md:max-w-80 block md:float-left mb-3 md:m-3 rounded-2xl"
+              />
+              <p className="">
+                <span className="font-bold uppercase">Oluwatoyin Afolabi</span>{" "}
+                is a registered and accomplished Clinical Pharmacist, currently
+                serves as the Deputy Director, Pharmaceutical services at the
+                Afe BABALOLA Multisystem Hospital, Ado Ekiti.
+              </p>
+              <p className="">
+                <span className="font-bold uppercase">Oluwatoyin Afolabi</span>{" "}
+                is a registered and accomplished Clinical Pharmacist, currently
+                serves as the Deputy Director, Pharmaceutical services at the
+                Afe BABALOLA Multisystem Hospital, Ado Ekiti.
+              </p>
+              <p className="">
+                <span className="font-bold uppercase">Oluwatoyin Afolabi</span>{" "}
+                is a registered and accomplished Clinical Pharmacist, currently
+                serves as the Deputy Director, Pharmaceutical services at the
+                Afe BABALOLA Multisystem Hospital, Ado Ekiti.
+              </p>
+              <p className="">
+                <span className="font-bold uppercase">Oluwatoyin Afolabi</span>{" "}
+                is a registered and accomplished Clinical Pharmacist, currently
+                serves as the Deputy Director, Pharmaceutical services at the
+                Afe BABALOLA Multisystem Hospital, Ado Ekiti.
+              </p>
+              <p className="">
+                <span className="font-bold uppercase">Oluwatoyin Afolabi</span>{" "}
+                is a registered and accomplished Clinical Pharmacist, currently
+                serves as the Deputy Director, Pharmaceutical services at the
+                Afe BABALOLA Multisystem Hospital, Ado Ekiti.
+              </p>
+              <p className="">
+                <span className="font-bold uppercase">Oluwatoyin Afolabi</span>{" "}
+                is a registered and accomplished Clinical Pharmacist, currently
+                serves as the Deputy Director, Pharmaceutical services at the
+                Afe BABALOLA Multisystem Hospital, Ado Ekiti.
+              </p>
+            </div>
           </div>
 
           <Divider />
@@ -42,35 +79,42 @@ export default function About() {
           {/* Research Section */}
           <div className="flex flex-col gap-4 text-md md:text-lg text-justify">
             <h1 className="text-xl md:text-4xl font-extrabold">Research</h1>
-            <p className="">
-              <span className="font-bold uppercase">Oluwatoyin Afolabi</span> is
-              a registered and accomplished Clinical Pharmacist, currently
-              serves as the Deputy Director, Pharmaceutical services at the Afe
-              BABALOLA Multisystem Hospital, Ado Ekiti.
-            </p>
-            <p>
-              Oluwatoyin in her versatility has co -authored a publication
-              titled{" "}
-              <i>
-                "Omicron spike glycoprotein receptor binding domain exhibits
-                super-binding ability with ACE2 but not convalescent monoclonal
-                antibody”
-              </i>{" "}
-              published in the journal{" "}
-              <a
-                href="https://www.sciencedirect.com/science/article/pii/S001048252200018X"
-                target="_blank"
-              >
-                <b>
-                  <i>Computers in Biology and Medicine</i>
-                </b>
-              </a>
-              . <br />
-              <i>
-                Co - authors: Omotuyi, I.O., Oyinloye, B.E., Fatumo, S.,
-                Femi-Oyewo, M.N., and Bogoro, S.E.
-              </i>
-            </p>
+            <div>
+              <img
+                src="/afolabi_with_virucidine.jpg"
+                alt=""
+                className="w-full md:max-w-80 block md:float-right mb-3 md:m-3 rounded-2xl"
+              />
+              <p className="">
+                <span className="font-bold uppercase">Oluwatoyin Afolabi</span>{" "}
+                is a registered and accomplished Clinical Pharmacist, currently
+                serves as the Deputy Director, Pharmaceutical services at the
+                Afe BABALOLA Multisystem Hospital, Ado Ekiti.
+              </p>
+              <p>
+                Oluwatoyin in her versatility has co -authored a publication
+                titled{" "}
+                <i>
+                  "Omicron spike glycoprotein receptor binding domain exhibits
+                  super-binding ability with ACE2 but not convalescent
+                  monoclonal antibody”
+                </i>{" "}
+                published in the journal{" "}
+                <a
+                  href="https://www.sciencedirect.com/science/article/pii/S001048252200018X"
+                  target="_blank"
+                >
+                  <b>
+                    <i>Computers in Biology and Medicine</i>
+                  </b>
+                </a>
+                . <br />
+                <i>
+                  Co - authors: Omotuyi, I.O., Oyinloye, B.E., Fatumo, S.,
+                  Femi-Oyewo, M.N., and Bogoro, S.E.
+                </i>
+              </p>
+            </div>
           </div>
 
           <Divider />
@@ -87,7 +131,13 @@ export default function About() {
               guidance to help them do incredible things and build strong
               careers. To achieve these, I:
             </p>
+
             <p>
+              <img
+                src="/afolabi_store.jpg"
+                alt=""
+                className="w-full md:max-w-96 block md:float-right mb-3 md:m-3 rounded-2xl"
+              />
               <ul className="flex flex-col gap-2">
                 <li>
                   <span className="font-bold">
@@ -131,12 +181,56 @@ export default function About() {
             <h1 className="text-xl md:text-4xl font-extrabold">
               Industrial Park
             </h1>
-            <p className="">
-              <span className="font-bold uppercase">Oluwatoyin Afolabi</span> is
-              a registered and accomplished Clinical Pharmacist, currently
-              serves as the Deputy Director, Pharmaceutical services at the Afe
-              BABALOLA Multisystem Hospital, Ado Ekiti.
-            </p>
+            <div>
+              <img
+                src="/afolabi_with_virucidine.jpg"
+                alt=""
+                className="w-full md:max-w-80 block md:float-right mb-3 md:m-3 rounded-2xl"
+              />
+              <p className="mb-3">
+                During the COVID-19 rage, the world was at a difficult moment,
+                there was need for sanitizing formulations. This created a huge
+                demand for Hand Sanitizers, Sanitizer Sprays, Liquid Handwash
+                and the like. This huge surge in demand overwhelmed the
+                in-country production capacity for such items. However,
+                importation was not possible with movement restriction. I took
+                this as a challenge resulting in what has now become{" "}
+                <b>
+                  AB Pharmaceuticals, Veterinary Medicine and Agro Processing
+                  Limited.
+                </b>
+              </p>
+              <p className="mb-3">
+                Worthy of note and attention is the quintessenal move during I
+                led a team of vibrant pharmacists to successfully produce and
+                register a hand sanitizer, under AB Pharmaceucals (ABUAD Hand
+                Sanitizer).
+              </p>
+              <p className="mb-3">
+                With the repository of knowledge acquired in Pharmacognosy under
+                the tutelage of the erudite Professor of Pharmacognosy at the
+                Obafemi Awolowo University, Ife, Prof Abayomi Sofowora, I took a
+                giant production leap in formulating and developing the well
+                researched plant components into a well packaged, stable and
+                acceptable novel product in a dosage form affirmed and confirmed
+                by the Nigeria Institute of Medical Research, NIMR, as a
+                solution for Covid 19 menace while it was also listed by NAFDAC
+                as an immune booster cum anoxidant. Through rigorous and
+                unwavering zeal, I was able to successfully apply for and
+                receive listing for ABUAD Herbal Virucidine Liquid 100mL as a
+                product safe for human consumption and use; the product carries
+                the NAFDAC Registration Number A7-100180L.
+              </p>
+              <p className="mb-3">
+                In addition to Virucidine, AB Pharmaceuticals, though in infancy
+                we have been able to apply for and in the process of listing two
+                other products that have been diligently researched into;{" "}
+                <b>AB-Mal Herbal Capsules 250mg</b> for use in management of
+                feverish conditions, and{" "}
+                <b>Natucadin Herbal Supplement Capsules 250mg</b> with the
+                potential to stall and reverse aging.
+              </p>
+            </div>
           </div>
 
           <Divider />
