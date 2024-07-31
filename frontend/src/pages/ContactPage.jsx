@@ -13,14 +13,14 @@ export default function ContactPage() {
             className="w-96 rounded-tl-[200px] rounded-bl-[200px]"
           />
         </div>
-        <div className="flex flex-col flex-1 p-3 md:gap-10">
+        <div className="flex flex-col flex-1 p-3 md:gap-10 w-full">
           <p className="capitalize text-3xl font-bold md:text-6xl md:font-bold mb-4">
             Let's Connect
           </p>
           <form
             onSubmit={(ev) => ev.target.reset()}
             target="_blank"
-            className="flex flex-col gap-4"
+            className="flex flex-col gap-4 w-full"
             action="https://formsubmit.co/clcthehouseofglory1@gmail.com"
             method="POST"
           >

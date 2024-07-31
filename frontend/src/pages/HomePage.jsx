@@ -14,7 +14,7 @@ export default function HomePage() {
             className="w-96 rounded-tl-[200px] rounded-bl-[200px]"
           />
         </div>
-        <div className="flex-1">
+        <div className="flex flex-col items-center justify-center text-center flex-1">
           <h1 className="text-4xl font-extrabold">
             AFOLABI, Oluwatoyin Elizabeth
           </h1>

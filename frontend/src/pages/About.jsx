@@ -14,16 +14,16 @@ export default function About() {
           className="w-full h-[400px] bg-cover bg-no-repeat flex flex-col items-center justify-center px-4 md:px-20 text-center"
           style={{ backgroundImage: `url(${heroImage})` }}
         >
-          <span>about</span>
-          <p className="text-4xl font-extrabold dark:text-gray-900">
+          <span className="dark:text-white">about</span>
+          <p className="text-4xl font-extrabold text-gray-900">
             AFOLABI, Oluwatoyin Elizabeth
           </p>
-          <span>
+          <span className="text-slate-900">
             (B. Pharm, M. Clinical Pharm & Admin, MPSN, MCIPSMN, MIFPSM)
           </span>
         </div>
 
-        <div className="flex flex-col gap-6 max-w-6xl md:mx-auto bg-white md:mt-[-50px] md:rounded-t-2xl p-4 md:p-10">
+        <div className="flex flex-col gap-6 max-w-6xl md:mx-auto bg-white md:mt-[-50px] md:rounded-t-2xl p-4 md:p-10 dark:text-slate-800">
           {/* Hospital Practice Section */}
           <div className="flex flex-col gap-4 text-md md:text-lg text-justify">
             <h1 className="text-xl md:text-4xl font-extrabold">
