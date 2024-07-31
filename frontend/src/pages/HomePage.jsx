@@ -9,7 +9,7 @@ export default function HomePage() {
       <div className="max-w-6xl mx-auto py-10 flex flex-col md:flex-row gap-4 items-center">
         <div>
           <img
-            src="/headshot.jpg"
+            src="/headshot.png"
             alt="afolabi oe"
             className="w-96 rounded-tl-[200px] rounded-bl-[200px]"
           />

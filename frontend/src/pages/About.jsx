@@ -214,7 +214,7 @@ export default function About() {
                 acceptable novel product in a dosage form affirmed and confirmed
                 by the Nigeria Institute of Medical Research, NIMR, as a
                 solution for Covid 19 menace while it was also listed by NAFDAC
-                as an immune booster cum anoxidant. Through rigorous and
+                as an immune booster cum antioxidant. Through rigorous and
                 unwavering zeal, I was able to successfully apply for and
                 receive listing for ABUAD Herbal Virucidine Liquid 100mL as a
                 product safe for human consumption and use; the product carries

@@ -8,7 +8,7 @@ export default function ContactPage() {
       <div className="max-w-6xl mx-auto p-2 md:py-8 flex flex-col md:flex-row mb-5 md:mb-10 items-center">
         <div className="flex-1">
           <img
-            src="/headshot.jpg"
+            src="/headshot.png"
             alt="afolabi oe"
             className="w-96 rounded-tl-[200px] rounded-bl-[200px]"
           />
