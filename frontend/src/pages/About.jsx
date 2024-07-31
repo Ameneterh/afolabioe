@@ -307,11 +307,47 @@ export default function About() {
           {/* Awards/Recognition Section */}
           <div className="flex flex-col gap-4 text-md md:text-lg text-justify">
             <h1 className="text-xl md:text-4xl font-extrabold">
-              Awards and Recognition
+              Awards, Honours, and Recognition
             </h1>
             <p className="">
-              <span className="font-bold uppercase">Oluwatoyin Afolabi</span>{" "}
-              has received the following awards and recognitions:
+              I have been a recipient of the following awards, honours, and
+              recognitions:
+            </p>
+            <div className="flex items-center justify-center gap-4 w-full">
+              <div className="h-40 w-40 bg-slate-500 rounded-lg text-white flex items-center justify-center">
+                awards pix
+              </div>
+              <div className="h-40 w-40 bg-slate-500 rounded-lg text-white flex items-center justify-center">
+                awards pix
+              </div>
+              <div className="h-40 w-40 bg-slate-500 rounded-lg text-white flex items-center justify-center">
+                awards pix
+              </div>
+            </div>
+            <p>
+              <span className="font-semibold">Award of Recognition: </span>
+              Utmost contribution to ABUAD Multisystem Hospital Ado-Ekiti; 2022
+            </p>
+            <p>
+              <span className="font-semibold">Award of Excellence: </span>
+              Outstanding God's General by Parish Women, Christ Life Church,
+              Odo-Ona, Ibadan.
+            </p>
+            <p>
+              <span className="font-semibold">
+                Professional Membership Award:{" "}
+              </span>
+              Chartered Institute of Purchase and Supply Management, Nigeria
+            </p>
+            <p>
+              <span className="font-semibold">Special Recognition Award: </span>
+              The Sword of the Spirit Ministry, Ibadan, Nigeria
+            </p>
+            <p>
+              <span className="font-semibold">Leadership Award: </span>
+              The Diocesan Women of Christ Life Church, Ososami, Ibadan,
+              OyoState (For Exemplary Leadership and Commitment to Community
+              Health and the Church of God)
             </p>
           </div>
         </div>
