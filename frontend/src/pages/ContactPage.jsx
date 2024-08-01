@@ -1,6 +1,9 @@
 import React from "react";
 import MainLayout from "../layout/MainLayout";
 import { Button, Textarea, TextInput } from "flowbite-react";
+import { MdMarkEmailUnread, MdAddCall } from "react-icons/md";
+import { FaWhatsappSquare } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 export default function ContactPage() {
   return (
@@ -13,10 +16,36 @@ export default function ContactPage() {
             className="w-96 rounded-tl-[200px] rounded-bl-[200px]"
           />
         </div>
-        <div className="flex flex-col flex-1 p-3 md:gap-10 w-full">
-          <p className="capitalize text-3xl font-bold md:text-6xl md:font-bold mb-4">
+        <div className="flex flex-col flex-1 p-3 md:gap-8 w-full">
+          <p className="capitalize text-3xl font-bold md:text-6xl md:font-bold">
             Let's Connect
           </p>
+          <div className="flex items-center justify-center gap-5 border-2 border-slate-200 rounded-xl p-2">
+            <Link
+              to="mailto:toyinafola@yahoo.com"
+              className="flex gap-1 items-center text-blue-600 hover:underline underline-offset-2"
+            >
+              <MdMarkEmailUnread className="text-2xl text-slate-600" /> Private
+            </Link>
+            <Link
+              to="mailto:afolabioe@abuad.edu.ng"
+              className="flex gap-1 items-center text-blue-600 hover:underline underline-offset-2"
+            >
+              <MdMarkEmailUnread className="text-2xl text-slate-600" /> Official
+            </Link>
+            <Link
+              to="https://wa.me/+2348039524453"
+              className="flex gap-1 items-center text-blue-600 hover:underline underline-offset-2"
+            >
+              <FaWhatsappSquare className="text-2xl text-green-800" /> WhatsApp
+            </Link>
+            <Link
+              to="tel:+2348039524453"
+              className="flex gap-1 items-center text-blue-600 hover:underline underline-offset-2"
+            >
+              <MdAddCall className="text-2xl text-blue-800" /> Call
+            </Link>
+          </div>
           <form
             onSubmit={(ev) => ev.target.reset()}
             target="_blank"
