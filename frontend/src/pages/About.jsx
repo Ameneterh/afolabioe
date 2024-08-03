@@ -62,7 +62,7 @@ export default function About() {
               <p className="mb-3">
                 Because of my versatility, and experience as a Chartered Member,
                 Institute of Purchasing and Supply Management, I was given
-                addional responsibility of coordinang the Central store of the
+                addional responsibility of coordinating the Central store of the
                 whole University. A unit that has seen to the seamless
                 procurement and distribution of chemicals, instruments, and
                 equipment to the different laboratories and colleges within the
