@@ -5,6 +5,7 @@ import MainLayout from "../layout/MainLayout";
 import { Button } from "flowbite-react";
 import { GrDocumentPdf } from "react-icons/gr";
 import Divider from "../components/Divider";
+import resume from "/Pharm-Afolabi-oe-Resume.pdf";
 
 export default function About() {
   return (
@@ -81,13 +82,13 @@ export default function About() {
                 alt=""
                 className="w-full md:max-w-80 block md:float-right mb-3 md:m-3 rounded-2xl"
               />
-              <p className="">
+              <p className="mb-3">
                 <span className="font-bold uppercase">Oluwatoyin Afolabi</span>{" "}
                 is a registered and accomplished Clinical Pharmacist, currently
                 serves as the Deputy Director, Pharmaceutical services at the
                 Afe BABALOLA Multisystem Hospital, Ado Ekiti.
               </p>
-              <p>
+              <p className="mb-3">
                 Oluwatoyin in her versatility has co -authored a publication
                 titled{" "}
                 <i>
@@ -240,7 +241,7 @@ export default function About() {
             <h1 className="text-xl md:text-4xl font-extrabold">Biography</h1>
             <div className="flex gap-1 items-center">
               <GrDocumentPdf className="mr-2 h-5 w-5" />
-              <a href="/PHARM AFOLABI OE - RESUME.pdf">
+              <a href={resume}>
                 View{" "}
                 <span className="font-bold text-blue-600 hover:underline underline-offset-2">
                   Curriculum Vitae

@@ -24,6 +24,11 @@ export default function About() {
 
           <div className="w-full flex flex-col gap-4 dark:text-slate-700">
             <p>
+              <img
+                src="/omicron.png"
+                alt="research paper image"
+                className="w-40 float-left m-3"
+              />
               Omotuyi, I.O., Oyinloye, B.E., Fatumo, S., Femi-Oyewo, M.N., and
               Bogoro, S.E., Afolabi O.E. (2021),
               <i>
@@ -34,6 +39,7 @@ export default function About() {
               <a
                 href="https://www.sciencedirect.com/science/article/pii/S001048252200018X"
                 target="_blank"
+                className="text-blue-600 hover:underline underline-offset-2"
               >
                 <b>
                   <i>Computers in Biology and Medicine</i>
@@ -41,19 +47,20 @@ export default function About() {
               </a>
             </p>
             <p>
-              Omotuyi, I.O., Oyinloye, B.E., Fatumo, S., Femi-Oyewo, M.N., and
-              Bogoro, S.E., Afolabi O.E. (2021),
+              Oyekanmi Nash; Julianah O. Abiola; Adebowale Alade; Elizabeth O.
+              Afolabi; Mustapha A. Popoola; Segun Fatumo (2021),
               <i>
-                "Omicron spike glycoprotein receptor binding domain exhibits
-                super-binding ability with ACE2 but not convalescent monoclonal
-                antibody”
+                "DVRKIA Blockage and Ki67/CYclin D gene upregulation underlie
+                sphenocentrum Jollyanum furanoditer penes stimulated pancreatic
+                regeneration in diabetic model.”
               </i>{" "}
               <a
-                href="https://www.sciencedirect.com/science/article/pii/S001048252200018X"
+                href=""
                 target="_blank"
+                className="text-blue-600 hover:underline underline-offset-2"
               >
                 <b>
-                  <i>Computers in Biology and Medicine</i>
+                  <i>Journal of Phytomedicine</i>
                 </b>
               </a>
             </p>
